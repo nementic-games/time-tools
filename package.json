@@ -1,0 +1,18 @@
+{
+  "name": "com.nementic.time-tools",
+  "version": "1.0.0",
+  "displayName": "Time Tools",
+  "description": "Provides tools to manage GameTime such as pausing or controlling time scale for testing.",
+  "unity": "2019.3",
+  "keywords": [
+    "Nementic",
+    "Time",
+    "TimeScale"
+  ],
+  "author": {
+    "name": "Nementic Games GmbH",
+    "email": "mail@nementic.games",
+    "url": "www.nementic.games"
+  },
+  "type": "tool"
+}

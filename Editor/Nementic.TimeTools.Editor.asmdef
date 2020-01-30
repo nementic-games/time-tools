@@ -1,0 +1,17 @@
+{
+    "name": "Nementic.TimeTools.Editor",
+    "references": [
+        "GUID:97ce937a03c263849a3b5967a59879b7"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

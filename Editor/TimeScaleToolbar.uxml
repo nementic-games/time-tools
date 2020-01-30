@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<engine:UXML
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:engine="UnityEngine.UIElements"
+    xmlns:editor="UnityEditor.UIElements"
+    xsi:noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd"
+>
+  <engine:VisualElement name="TimeScaleToolbar">
+    <engine:Style src="TimeScaleToolbar.uss"/>
+    <engine:Label text="Time Scale"/>
+    <engine:Slider/>
+    <editor:FloatField name="Time" tooltip="The current time scale."/>
+    <editor:FloatField name="MaxTime" tooltip="The maximum slider value."/>
+    <engine:Button name="Reset">
+      <engine:VisualElement name="ResetIcon"/>
+    </engine:Button>
+  </engine:VisualElement>
+
+</engine:UXML>
